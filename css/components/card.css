@@ -1,0 +1,78 @@
+.notre-potentiel-partenaire{
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 10px;
+	justify-content: space-around;
+
+}
+.objectifs{
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 20px;
+	justify-content: space-around;
+	padding: 20px;
+}
+.présentation{
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 20px;
+	justify-content: space-around;
+	padding: 20px;
+}
+.création-du-compte{
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 20px;
+	justify-content: space-around;
+	padding: 20px;
+}
+.membre1{
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 20px;
+	justify-content: space-around;
+	padding: 20px;
+}
+.membre2{
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 20px;
+	justify-content: space-around;
+	padding: 20px;
+}
+.membre3{
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 20px;
+	justify-content: space-around;
+	padding: 20px;
+}
+.membre4{
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 20px;
+	justify-content: space-around;
+	padding: 20px;
+}
+.lesmembres{
+	display: flex;
+	flex-grow: grow ;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 20px;
+	justify-content: space-around;
+	padding: 20px;
+	flex-wrap: wrap;
+}
